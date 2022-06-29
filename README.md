@@ -91,7 +91,7 @@ Distributed under the Apache License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Toni Boss Official - 2022
+Toni Boss Official - 2022 [My Discord Server](https://discord.gg/vrs8FPeRJ6)
 
 Project Link: [https://github.com/ToniBossOfficial/SpamMachine](https://github.com/ToniBossOfficial/SpamMachine/)
 
