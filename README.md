@@ -74,7 +74,8 @@ Once you have installed the software you should run it. Once you run it you can 
 <br><img src="howToInstallSpamMachine/step3.png" alt="Step2" width="800" height="500">
 4. Run the .exe File you have just downloaded to start the installation procces.
 <br><img src="howToInstallSpamMachine/step4.png" alt="Step3" width="800" height="500">
-
+5. There might appear a warning screen by windows defender, this screen pops up because my software isn't verified by microsoft (it needs an license) so you SHOULD click More Info --> run anyway  || THIS IS AN OPEN SOURSE PROGRAMM SO IT CANNOT BE A VIRUS, it is safe :)
+<br><img src="howToInstallSpamMachine/windows-defender.png" alt="Step1" width="800" height="500">
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
